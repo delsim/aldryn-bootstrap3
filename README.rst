@@ -1,3 +1,16 @@
+======================
+Patches for Django 2.X
+======================
+
+This is a fork of the repository for use with Django 2.X
+
+To use it:
+ * git clone this repo
+ * activate the relevant virtual environment
+ * cd to the root of this repo
+ * switch to the required branch and git pull
+ * pip install -e .
+
 **Deprecated**
 
 This project has been succeeded by `djangocms-bootstrap4 <https://github.com/divio/djangocms-bootstrap4/>`_ , and is no longer supported.
